@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a computer science undergraduate student at Indian Institute of Information Technology,Ranchi.
 
-My fields of intrest are machine learning, artifical intelligence especially reinforcement learning and blockchain.
+My fields of interest are machine learning, artifical intelligence especially reinforcement learning and blockchain.
 
 Checkout some of my projects in the pins below.
 
