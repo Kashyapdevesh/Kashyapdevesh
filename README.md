@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm a computer science undergraduate student at Indian Institute of Information Technology,Ranchi.
 
+My fields of intrest are machine learning, artifical intelligence especially reinforcement learning and blockchain.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashyapdevesh&show_icons=true&theme=tokyonight)
 <!--
 **Kashyapdevesh/Kashyapdevesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
