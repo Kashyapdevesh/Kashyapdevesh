@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm a computer science undergraduate student at Indian Institute of Information Technology,Ranchi.
+I'm a Computer Science undergraduate student at Indian Institute of Information Technology,Ranchi.
 
-My fields of interest are machine learning, artifical intelligence especially reinforcement learning and blockchain.
+My fields of interest are Machine Learning, Artifical Intelligence especially Reinforcement Learning and Blockchain.
 
 Checkout some of my projects in the pins below.
 
@@ -11,6 +11,11 @@ Checkout some of my projects in the pins below.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyapdevesh&layout=compact" />
 </a>
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Kashyapdevesh)
+
 
 <!--
 **Kashyapdevesh/Kashyapdevesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
