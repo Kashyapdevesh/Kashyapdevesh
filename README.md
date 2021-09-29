@@ -5,7 +5,13 @@ My fields of intrest are machine learning, artifical intelligence especially rei
 
 Checkout some of my projects in the pins below.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashyapdevesh&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashyapdevesh&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyapdevesh&layout=compact" />
+</a>
+
 <!--
 **Kashyapdevesh/Kashyapdevesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
