@@ -5,16 +5,35 @@ My fields of interest are Machine Learning, Artifical Intelligence especially Re
 
 Checkout some of my projects in the pins below.
 
+
+![](https://komarev.com/ghpvc/?username=Kashyapdevesh)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kashyapdevesh&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyapdevesh&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyapdevesh&theme=tokyonight" />
 </a>
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Kashyapdevesh)
+**Github Streak:**
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Kashyapdevesh">
+</p>
+
+## Connect with me
+
+  <p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/devesh-kashyap-15b6361a0"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/deveshkashyap">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+     <a href="https://medium.com/@kashyapdevesh20">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
+  </a>&nbsp;&nbsp;  
+    <a href="mailto:kashyapdevesh30@gmail.com?hl="en"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
 
 
 <!--
