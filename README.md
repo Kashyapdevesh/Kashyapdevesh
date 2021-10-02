@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
+
 ### Hi there 👋
 I'm a Computer Science undergraduate student at Indian Institute of Information Technology,Ranchi.
 
